@@ -4,9 +4,13 @@
 Moringa-Week-6-Core-IP 
 
 Authors
+
+
 ValentineKarimi
 
 Project setup instructions
+
+
 To start using this project use the following commands:
 
 
